@@ -1,0 +1,282 @@
+1
+00:00:00,880 --> 00:00:06,000
+In deze video laat ik zien hoe je
+meerdere ondertitels toevoegt aan een YouTube-
+
+2
+00:00:06,000 --> 00:00:10,400
+video in de YouTube-studio.
+Hallo, mijn naam is David en als dit de
+
+3
+00:00:10,400 --> 00:00:15,280
+eerste keer is dat je mijn video's bekijkt en je waarde uit deze inhoud haalt, overweeg dan om
+
+4
+00:00:15,280 --> 00:00:19,440
+mijn YouTube-kanaal leuk te vinden, te delen en je te abonneren.
+Bedankt voor het kijken naar deze video.
+
+5
+00:00:19,440 --> 00:00:22,320
+En laten we beginnen.
+Om dit uit de weg te ruimen:
+
+6
+00:00:22,320 --> 00:00:26,080
+de ondertitels die ik ga gebruiken,
+worden automatisch vertaald.
+
+7
+00:00:26,080 --> 00:00:29,760
+En ik heb al een video gemaakt over
+hoe je
+
+8
+00:00:29,760 --> 00:00:33,440
+ondertitels voor je video's automatisch kunt vertalen.
+Je kunt die video dus bekijken.
+
+9
+00:00:33,440 --> 00:00:39,200
+Maar wat we gaan doen is dat we
+meerdere ondertitels aan onze video gaan toevoegen.
+
+10
+00:00:39,200 --> 00:00:43,840
+Ik heb de betreffende video
+hier dus al.  En ik kan gewoon op details klikken.
+
+11
+00:00:44,480 --> 00:00:51,200
+En als ik dit eenmaal heb gedaan, laten we zeggen dat ik
+hier extra bestanden aan wil toevoegen, klik dan gewoon op ondertitels
+
+12
+00:00:51,200 --> 00:00:56,560
+aan de linkerkant en voeg vervolgens de taal toe.
+Dat is afhankelijk van de ondertitels die
+
+13
+00:00:56,560 --> 00:00:58,000
+je hebt.
+Als we naar mijn
+
+14
+00:00:58,000 --> 00:01:03,280
+map gaan, heb ik twee ondertitelbestanden.
+Eén is in het Spaans, dit bestand.  Dit is een
+
+15
+00:01:03,840 --> 00:01:09,840
+Spaans SRT-bestand voor die specifieke video.
+En dan hebben we nog de andere in het Duits.
+
+16
+00:01:09,840 --> 00:01:16,560
+En deze worden automatisch getranscribeerd.
+Dus wees geduldig als er een probleem is.
+
+17
+00:01:17,360 --> 00:01:20,640
+Maar dit proces is alleen bedoeld om u te laten zien
+hoe u meerdere bestanden kunt toevoegen.
+
+18
+00:01:20,640 --> 00:01:26,560
+Dus zodra u dat doet, hoeft u alleen maar
+naar dit specifieke ondertitelingsgedeelte te gaan.
+
+19
+00:01:26,560 --> 00:01:30,480
+Laten we op Taal toevoegen klikken.
+En laten we zeggen dat we op 'G' drukken,
+
+20
+00:01:30,480 --> 00:01:35,600
+zodat we Duits kunnen selecteren.
+En zodra we dat hebben gedaan, kunt u een
+
+21
+00:01:35,600 --> 00:01:41,760
+titel en beschrijving toevoegen als deze beschikbaar is.
+Maar aangezien dit niet beschikbaar is, is de titel,
+
+22
+00:01:41,760 --> 00:01:45,440
+je kunt dit doen, dit is van het grootste belang
+en je ziet hier een sterretje dat
+
+23
+00:01:46,080 --> 00:01:49,280
+aangeeft dat de titel vereist is.
+Dus als u Duits kent,
+
+24
+00:01:49,280 --> 00:01:53,520
+kunt u dat hier gewoon invoeren.
+Laten we het daar gewoon in plakken.
+
+25
+00:01:53,520 --> 00:01:56,640
+Klik gewoon op Publiceren.
+Dat is gepubliceerd.
+
+26
+00:01:56,640 --> 00:01:59,360
+En laten we dan naar de
+ondertitel gaan, klik gewoon op Toevoegen.
+
+27
+00:02:00,080 --> 00:02:06,000
+En dan moet je vanuit dit specifieke gedeelte
+een Duitser toevoegen en je ziet de titel hier.
+
+28
+00:02:06,000 --> 00:02:07,840
+En dan moet je uploaden.
+Klik gewoon op Uploaden.
+
+29
+00:02:08,640 --> 00:02:13,280
+En de beschikbare optie is alleen met timing.
+Ik heb je al door het proces geleid
+
+30
+00:02:13,280 --> 00:02:19,760
+van het converteren van een tekstbestand naar een ondertitelbestand.
+Maar als u een ondertitelingsbestand voor vertaalde taal
+
+31
+00:02:19,760 --> 00:02:24,480
+of voor een andere taal toevoegt, moet u
+een SRT-ondertitelingsbestand uploaden waaraan
+
+32
+00:02:24,480 --> 00:02:27,920
+al de timing is toegevoegd.  Laten
+we dan gewoon op Doorgaan klikken.
+
+33
+00:02:27,920 --> 00:02:32,720
+Nu komen we in een map
+en hier de ondertitels, deze twee,
+
+34
+00:02:33,760 --> 00:02:38,800
+en we hebben deze .de nodig, dat is het Duits,
+ons ondertitelbestand, klik gewoon op openen.
+
+35
+00:02:40,080 --> 00:02:44,880
+En zodra u dat doet, wordt het
+op het platform geladen.
+
+36
+00:02:44,880 --> 00:02:49,840
+Als u hiermee akkoord gaat, hoeft u
+alleen maar op publiceren te klikken. Klik daar gewoon op.
+
+37
+00:02:50,400 --> 00:02:53,680
+En het Duitse ondertitelbestand wordt
+toegevoegd.
+
+38
+00:02:53,680 --> 00:02:55,840
+Laten we zeggen dat we ook
+de Spaanse willen toevoegen.
+
+39
+00:02:55,840 --> 00:03:01,120
+Klik gewoon op Taal toevoegen en
+druk vervolgens op s en scroll omlaag naar Spaans.
+
+40
+00:03:02,160 --> 00:03:05,040
+Klik daar gewoon op.
+En dan kunnen we een titel toevoegen.
+
+41
+00:03:05,920 --> 00:03:08,000
+Laten we zeggen dat we
+deze titel gewoon willen kopiëren.
+
+42
+00:03:08,000 --> 00:03:13,760
+Maar je hebt -- als je een vertaling van
+deze specifieke titel in het Spaans hebt,
+
+43
+00:03:13,760 --> 00:03:16,400
+voeg deze dan hier toe en klik vervolgens op Publiceren.
+
+44
+00:03:17,760 --> 00:03:22,480
+En klik vervolgens gewoon op Toevoegen.  We
+navigeren door het bestand te uploaden.
+
+45
+00:03:22,480 --> 00:03:25,360
+En zoals altijd met timing, en
+onthoud dat het in het Spaans is.
+
+46
+00:03:25,360 --> 00:03:29,280
+Laten we op Doorgaan klikken.
+En dan klikken we gewoon op 'es'.
+
+47
+00:03:29,280 --> 00:03:33,440
+Deze met .es, dat is
+espanol.  Klik gewoon op openen.
+
+48
+00:03:34,160 --> 00:03:37,920
+En als u dat eenmaal heeft gedaan,
+klikt u op Publiceren als u tevreden bent.
+
+49
+00:03:38,480 --> 00:03:42,560
+De reden waarom je dit misschien moet doen, is
+omdat de kijkers van je YouTube-
+
+50
+00:03:42,560 --> 00:03:50,160
+kanaal misschien uit deze verschillende landen komen,
+of uit landen die Duits of Spaans spreken.
+
+51
+00:03:50,160 --> 00:03:54,800
+U zorgt er dus voor dat meer mensen uw
+inhoud bekijken, omdat u zich op hen richt.
+
+52
+00:03:54,800 --> 00:03:59,760
+Als je video's in verschillende talen maakt,
+helpt dit ook mensen die de taal proberen te leren
+
+53
+00:03:59,760 --> 00:04:05,440
+, mensen die ook van je inhoud genieten of willen
+genieten, ook al is er een
+
+54
+00:04:05,440 --> 00:04:10,880
+taalbarrière, dus dit is best gaaf.
+Maar zo kun je meerdere ondertitelbestanden toevoegen
+
+55
+00:04:12,320 --> 00:04:16,800
+aan een YouTube-video in de YouTube-studio.
+Ik hoop dat deze video van waarde is geweest
+
+56
+00:04:16,800 --> 00:04:20,800
+voor iedereen die dat wil doen.
+Bedankt voor het kijken en tot de volgende keer,
+
+57
+00:04:20,800 --> 00:04:24,720
+blijf veilig en stop nooit met leren.  Hartelijk
+dank voor het bekijken van deze video.
