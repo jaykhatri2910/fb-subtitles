@@ -1,0 +1,19 @@
+{
+  "name": "facebook-subtitles",
+  "version": "1.0.0",
+  "description": "Lambda code to upload subtitles to a fb video post",
+  "main": "index.js",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.1614.0",
+    "axios": "^0.27.2",
+    "bluebird": "^3.7.2",
+    "dotenv": "^16.4.5",
+    "fs-extra": "^10.1.0",
+    "ms": "^2.1.3",
+    "path": "^0.12.7",
+    "request": "^2.88.2",
+    "uuid": "^8.3.2"
+  }
+}
